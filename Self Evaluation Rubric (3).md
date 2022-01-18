@@ -7,9 +7,8 @@ Self Evaluation Rubric
 
 The skills this project focused on were: 
 
-My project exhibits
-
-- [ ] mastery of
+My project
+- iXsstst [ ] ma[Xery of
 - [ ] proficiency with
 - [ ] competency in
 - [ ] difficulty with
